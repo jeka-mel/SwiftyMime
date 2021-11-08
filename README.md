@@ -1,0 +1,2 @@
+# SwiftyMime
+Mime type detector.
